@@ -18,5 +18,6 @@
     "babelOptions": {
       "presets": ["@babel/preset-react"]
     }
-  }
+  },
+  "arrow-body-style": ["error", "as-needed"]
 }
